@@ -14,9 +14,8 @@ public class ManavKasa {
         d= input.nextInt();
         System.out.println("Patlıcan kaç kilo : ");
         e= input.nextInt();
+
         toplam_tutar= (a*armut)+(b*elma)+(c*domates)+(d*muz)+(e*patlican);
         System.out.println("Toplam tutar : "+toplam_tutar);
-
-
     }
 }
